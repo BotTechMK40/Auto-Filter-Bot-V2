@@ -45,7 +45,7 @@ async def help(client, message):
                     ],
                     [
                         InlineKeyboardButton(
-                            📺 Sᴜᴘᴘᴏʀᴛ 📺", url="https://t.me/TroJanzSupport")
+                            📺 Sᴜᴘᴘᴏʀᴛ 📺", url="https://t.me/Bot_Tech_Updates")
                     ]
                 ]
             ),
@@ -68,7 +68,7 @@ async def about(client, message):
                     ],
                     [
                         InlineKeyboardButton(
-                            "SOURCE CODE", url="https://github.com/TroJanzHEX/Auto-Filter-Bot-V2")
+                            "SOURCE CODE", url="https://github.com/BotTechMK40/Auto-Filter-Bot-V2")
                     ]
                 ]
             ),
